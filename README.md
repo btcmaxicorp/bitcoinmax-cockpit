@@ -1,3 +1,4 @@
+## From Jack Booth
 - Am I putting thought into action?
 - Am I setting new and interesting goals?
 - Am I visualizing my goals?
@@ -8,4 +9,3 @@
 - Are my actions the same as my values?
 - Am I staying in balance?
 - Am I focused and persistent?
-- 
