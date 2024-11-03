@@ -1,1 +1,1 @@
-# BTCMAX Front end
+# bitcoinmax front end
